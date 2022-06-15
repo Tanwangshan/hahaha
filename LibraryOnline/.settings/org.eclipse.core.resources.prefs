@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/Client/LibraryClient.java=UTF-8
+encoding//src/Client/NetClient.java=UTF-8
+encoding//src/Server/IPGetter.java=UTF-8
+encoding//src/Server/LibraryServer.java=UTF-8
